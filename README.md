@@ -1,2 +1,3 @@
 # Js-Local-Time
-Local Time Display This repository contains a simple web-based clock that displays the current local time of the user. The clock updates in real-time and is designed with a clean and minimal interface using HTML, CSS, and JavaScript.
+
+This project is a simple local time display built using HTML, CSS, and JavaScript. It shows the user's current local time and updates every second. The design is minimalistic, with a focus on readability and simplicity.
